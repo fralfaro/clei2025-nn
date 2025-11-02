@@ -1,8 +1,15 @@
 # Redes Neuronales para Análisis y Generación de Textos
 
+![example workflow](https://github.com/fralfaro/clei2025-nn/actions/workflows/documentation.yml/badge.svg)
+<a href="https://fralfaro.github.io/clei2025-nn"><img alt="Link a la Documentación" src="https://img.shields.io/badge/📖 docs-link-brightgreen"></a>
+<a href="https://github.com/pln-fing-udelar/cursos/blob/master/CLEI2025%2FREADME.md"><img alt="Link a la Documentación" src="https://img.shields.io/badge/📁 Material-link-brightgreen"></a>
+
+
 * **Docentes:** Dra. Aiala Rosá (UDELAR – Uruguay), Dr. Guillermo Moncecchi (UDELAR – Uruguay) y MSc. Juan José Prada (UDELAR – Uruguay)  
 * **Duración:** 15 horas presenciales + 15 horas de trabajo final  
 
+
+> **Nota:** Esta es una versión **adaptada** del curso original disponible en el repositorio de la Universidad de la República (UDELAR):  [pln-fing-udelar/cursos – CLEI2025](https://github.com/pln-fing-udelar/cursos/blob/master/CLEI2025%2FREADME.md)
 
 ## 🎯 Objetivos del curso
 
