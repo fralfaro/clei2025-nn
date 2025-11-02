@@ -1,0 +1,106 @@
+# Project information
+site_name: Redes Neuronales para análisis y generación de textos
+site_url: https://github.com/fralfaro/clei2025-nn
+site_author: Francisco Alfaro
+
+# Repository
+repo_name: fralfaro/clei2025-nn
+repo_url: https://github.com/fralfaro/clei2025-nn
+edit_uri: ''
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - neoteroi.cards
+  - neoteroi.timeline
+  - neoteroi.projects
+  - admonition
+  - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_css:
+  - css/neoteroi-mkdocs.css
+
+# Theme
+theme:
+  name: material
+  language: es
+  logo: images/clei2.png
+  favicon: images/clei2.png
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: black
+    accent: amber
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: black
+    accent: amber
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to light mode
+  features:
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - navigation.indexes
+  - content.tooltips
+  - navigation.path
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
+  - navigation.tabs
+  - navigation.footer
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fralfaro
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/fralfaro
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/faam/
+    - icon: fontawesome/brands/kaggle
+      link: https://www.kaggle.com/faamds
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@fralfaro
+    - icon: fontawesome/solid/globe
+      link: https://fralfaro.github.io/portfolio/
+
+# Plugins
+plugins:
+  - mkdocs-jupyter:
+      kernel_name: python3
+  - search
+
+# Extra javascript
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+
+#TOC
+nav:
+    - 🏠 Home:
+        - index.md
+    - 📖 Clases:
+        - clases/dia1.md
+        - clases/dia2.md
+        - clases/dia3.md    
+        - clases/dia4.md
+    - 🧪 Tutoriales:
+        - tutoriales/Algebra-Lineal.ipynb
+        - tutoriales/AlgebraLineal-con-NumPy.ipynb
+        - tutoriales/NumPy-Intro.ipynb
+        - tutoriales/Pandas-Intro.ipynb
+        - tutoriales/Matplotlib-Intro.ipynb
+        - tutoriales/PCA.ipynb
+        - tutoriales/Entropía-Cruzada.ipynb
+        - tutoriales/PyTorch-Intro.ipynb
