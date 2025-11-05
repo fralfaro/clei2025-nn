@@ -95,6 +95,7 @@ nav:
         - clases/dia2.md
         - clases/dia3.md    
         - clases/dia4.md
+        - clases/dia5.md
     - 🧪 Tutoriales:
         - tutoriales/Algebra-Lineal.ipynb
         - tutoriales/AlgebraLineal-con-NumPy.ipynb
