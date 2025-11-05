@@ -2,58 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/__init__/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/clases/dia1/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/clases/dia2/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/clases/dia3/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/clases/dia4/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/fralfaro/clei2025-nn/clases/dia5/</loc>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/Algebra-Lineal/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/AlgebraLineal-con-NumPy/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/Entrop%C3%ADa-Cruzada/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/Matplotlib-Intro/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/NumPy-Intro/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/PCA/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/Pandas-Intro/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/clei2025-nn/tutoriales/PyTorch-Intro/</loc>
-         <lastmod>2025-11-02</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
 </urlset>
